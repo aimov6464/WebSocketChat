@@ -1,3 +1,1 @@
-Всем привет! 
-Это обычный онлайн чат написанный на языке Java используя WebSocket.
-Можно подключится к серверу через telnet и порт 5555;
+Hi all! This is a regular online chat written in Java using WebSocket. You can connect to the server via telnet and port 5555;
